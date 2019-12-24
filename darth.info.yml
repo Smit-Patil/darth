@@ -1,0 +1,17 @@
+name: Darth
+type: theme
+description: Dark theme for Drupal 8 base on Bootstrap.
+core: 8.x
+# Defines the base theme
+base theme: bootstrap
+# Defines libraries group in which we can add css/js.
+libraries:
+  - darth/global-styling
+# Regions
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
