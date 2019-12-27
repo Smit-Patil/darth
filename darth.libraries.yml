@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 global-styling:
   css:
     component:
+=======
+global-styling:
+  css:
+    component:
+>>>>>>> b3a3e74a557e8754b82f6146df0139faefa9dbed
       css/style.css: {}
