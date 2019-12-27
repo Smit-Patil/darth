@@ -16,6 +16,10 @@ h1, h2 {
 h3, h4, h5 {
     color: #f5f5f5;
 }
+
+h1.site-title {
+    float:left;
+}
 aside .well, aside .region {
     background: #372a2a;
 }
